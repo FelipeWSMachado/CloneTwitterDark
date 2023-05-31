@@ -41,11 +41,11 @@ export const Topside = styled.div`
 `;
 
 export const Logo = styled(LogoTwitter)`
-  width: 41px;
+  width: 30px;
   height: 41px;
 
   > path {
-    fill: var(--twitter);
+    color: var(--white);
   }
 
   margin-bottom: 20px;
@@ -150,14 +150,13 @@ export const Botside = styled.div`
   align-items: center;
 `;
 
-export const Avatar = styled.div`
+export const Avatar = styled.img`
   width: 39px;
   height: 39px;
 
   flex-shrink: 0;
 
   border-radius: 50%;
-  background: var(--gray);
 `;
 
 export const ProfileData = styled.div`

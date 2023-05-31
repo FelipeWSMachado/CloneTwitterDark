@@ -1,17 +1,21 @@
 import React from 'react';
-
 import { Container, Avatar, Info, FollowButton } from './styles';
 
 interface Props {
   name: string;
   nickname: string;
+  img: string;
 }
 
-const FollowSuggestion: React.FC<Props> = ({ name, nickname }) => {
+const FollowSuggestion: React.FC<Props> = ({ name, nickname, img }) => {
+  const handleFollowClick = () => {
+    window.location.href = `https://twitter.com/${nickname}`;
+  };
+
   return (
-    <Container>
+    <Container onClick={handleFollowClick}>
       <div>
-        <Avatar />
+        <Avatar src={img} />
 
         <Info>
           <strong>{name}</strong>

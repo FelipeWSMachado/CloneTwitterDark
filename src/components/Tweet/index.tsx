@@ -1,5 +1,5 @@
 import React from 'react';
-
+import moment from 'moment';
 import {
   Container,
   Retweeted,
@@ -17,8 +17,15 @@ import {
   RetweetIcon,
   LikeIcon,
 } from './styles';
+import profilePicture from '../assets/profile-pic.png';
 
-const Tweet: React.FC = () => {
+const Tweet: React.FC<{
+  img: string;
+  desc: string;
+  author: string;
+  time: Date;
+  source: string;
+}> = ({ img, desc, author, time, source }) => {
   return (
     <Container>
       <Retweeted>
@@ -27,20 +34,19 @@ const Tweet: React.FC = () => {
       </Retweeted>
 
       <Body>
-        <Avatar />
+        <Avatar src={profilePicture} />
 
         <Content>
           <Header>
-            <strong>Rocketseat</strong>
-            <span>@rocketseat</span>
+            <strong>{author}</strong>
+            <span>@{source}</span>
             <Dot />
-            <time>27 de jun</time>
+            <time>{moment(time).format('MMM Do YY')}</time>
           </Header>
 
-          {/* eslint-disable-next-line jsx-a11y/accessible-emoji */}
-          <Description>Foguete não tem ré 🚀</Description>
+          <Description>{desc}</Description>
 
-          <ImageContent />
+          <ImageContent src={img} />
 
           <Icons>
             <Status>

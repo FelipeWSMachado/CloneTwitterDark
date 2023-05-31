@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Button from '../Button';
+import profilePicture from '../assets/profile-pic.png';
 
 import {
   Container,
@@ -61,7 +62,7 @@ const MenuBar: React.FC = () => {
       </Topside>
 
       <Botside>
-        <Avatar />
+        <Avatar src={profilePicture} />
 
         <ProfileData>
           <strong>Felipe Machado</strong>

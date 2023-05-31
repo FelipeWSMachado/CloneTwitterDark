@@ -2,11 +2,18 @@ import React from 'react';
 
 import { Container } from './styles';
 
-const News: React.FC = () => {
+const News: React.FC<{ author: string; title: string; url: string }> = ({
+  author,
+  title,
+  url,
+}) => {
+  const handleFollowClick = () => {
+    window.location.href = url;
+  };
   return (
-    <Container>
-      <span>Assuntos do momento no Brasil</span>
-      <strong>Quarentena - Covid-19</strong>
+    <Container onClick={handleFollowClick}>
+      <span>{author}</span>
+      <strong>{title}</strong>
     </Container>
   );
 };

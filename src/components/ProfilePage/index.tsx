@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Feed from '../Feed';
+import profilePicture from '../assets/profile-pic.png';
 
 import {
   Container,
@@ -16,8 +17,8 @@ import {
 const ProfilePage: React.FC = () => {
   return (
     <Container>
-      <Banner >
-        <Avatar />
+      <Banner>
+        <Avatar src={profilePicture} />
       </Banner>
 
       <ProfileData>
@@ -27,7 +28,7 @@ const ProfilePage: React.FC = () => {
         <h2>@feliprela</h2>
 
         <p>
-          Desenvolvedor  <a href="https://github.com/FelipeWSMachado">@github</a>
+          Desenvolvedor <a href="https://github.com/FelipeWSMachado">@github</a>
         </p>
 
         <ul>

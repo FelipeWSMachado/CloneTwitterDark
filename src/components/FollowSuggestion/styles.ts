@@ -13,10 +13,9 @@ export const Container = styled.div`
   }
 `;
 
-export const Avatar = styled.div`
+export const Avatar = styled.img`
   width: 49px;
   height: 49px;
-  background: var(--gray);
   border-radius: 50%;
   margin-right: 10px;
 `;
