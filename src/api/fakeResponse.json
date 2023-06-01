@@ -1,0 +1,530 @@
+[
+    {
+        "br":
+            [
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "Poder360",
+                    "title": "Ao vivo: Câmara analisa marco temporal e MP da Esplanada - Poder360",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CCAiCzlndEEwTU1CblNrmAEB?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T21:09:29Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "Política Estadão",
+                    "title": "Deltan cassado: MBL cancela ato em apoio a ex-procurador após boicote de Bolsonaro - Política Estadão",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmVzdGFkYW8uY29tLmJyL3BvbGl0aWNhL21ibC1jYW5jZWxhLWF0by1lbS1hcG9pby1hLWRlbHRhbi1kYWxsYWdub2wtYXBvcy1ib2ljb3RlLWRlLWJvbHNvbmFyby1ucHJwL9IBc2h0dHBzOi8vd3d3LmVzdGFkYW8uY29tLmJyL2FtcC9wb2xpdGljYS9tYmwtY2FuY2VsYS1hdG8tZW0tYXBvaW8tYS1kZWx0YW4tZGFsbGFnbm9sLWFwb3MtYm9pY290ZS1kZS1ib2xzb25hcm8tbnBycC8?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T21:05:59Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "UOL Economia",
+                    "title": "Prazo IRPF 2023: Saiba qual a data e hora limites para entregar declaração - UOL Economia",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL2Vjb25vbWlhLnVvbC5jb20uYnIvaW1wb3N0by1kZS1yZW5kYS9ub3RpY2lhcy9yZWRhY2FvLzIwMjMvMDUvMzAvcHJhem8taXJwZi0yMDIzLXNhaWJhLXF1YWwtYS1kYXRhLWxpbWl0ZS1wYXJhLWVudHJlZ2FyLWRlY2xhcmFjYW8uaHRt0gGSAWh0dHBzOi8vZWNvbm9taWEudW9sLmNvbS5ici9pbXBvc3RvLWRlLXJlbmRhL25vdGljaWFzL3JlZGFjYW8vMjAyMy8wNS8zMC9wcmF6by1pcnBmLTIwMjMtc2FpYmEtcXVhbC1hLWRhdGEtbGltaXRlLXBhcmEtZW50cmVnYXItZGVjbGFyYWNhby5hbXAuaHRt?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T20:22:10Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "Superesportes",
+                    "title": "Coudet define relacionados do Atlético-MG para jogo contra o Corinthians - Superesportes",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy5tZy5zdXBlcmVzcG9ydGVzLmNvbS5ici9hcHAvbm90aWNpYXMvZnV0ZWJvbC9hdGxldGljby1tZy8yMDIzLzA1LzMwL25vdGljaWFfYXRsZXRpY29fbWcsMzk5NjU3My9jb3VkZXQtZGVmaW5lLXJlbGFjaW9uYWRvcy1kby1hdGxldGljby1tZy1wYXJhLWpvZ28tY29udHJhLW8tY29yaW50aGlhbnMuc2h0bWzSAboBaHR0cHM6Ly93d3cubWcuc3VwZXJlc3BvcnRlcy5jb20uYnIvYW1wL25vdGljaWFzL2Z1dGVib2wvYXRsZXRpY28tbWcvMjAyMy8wNS8zMC9ub3RpY2lhX2F0bGV0aWNvX21nLDM5OTY1NzMvY291ZGV0LWRlZmluZS1yZWxhY2lvbmFkb3MtZG8tYXRsZXRpY28tbWctcGFyYS1qb2dvLWNvbnRyYS1vLWNvcmludGhpYW5zLnNodG1s?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T20:19:00Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "Gazeta do Povo",
+                    "title": "TRE do Ceará cassa chapa de quatro deputados estaduais do PL - Gazeta do Povo",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmdhemV0YWRvcG92by5jb20uYnIvcmVwdWJsaWNhL2JyZXZlcy90cmUtZG8tY2VhcmEtY2Fzc2EtY2hhcGEtZGUtcXVhdHJvLWRlcHV0YWRvcy1lc3RhZHVhaXMtZG8tcGwv0gFyaHR0cHM6Ly93d3cuZ2F6ZXRhZG9wb3ZvLmNvbS5ici9yZXB1YmxpY2EvYnJldmVzL3RyZS1kby1jZWFyYS1jYXNzYS1jaGFwYS1kZS1xdWF0cm8tZGVwdXRhZG9zLWVzdGFkdWFpcy1kby1wbC9hbXAv?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T19:34:00Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "G1",
+                    "title": "Em Brasília, presidentes do Uruguai e do Chile dizem discordar de Lula sobre Maduro - G1",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL2cxLmdsb2JvLmNvbS9tdW5kby9ub3RpY2lhLzIwMjMvMDUvMzAvZW0tYnJhc2lsaWEtcHJlc2lkZW50ZXMtZG8tdXJ1Z3VhaS1lLWRvLWNoaWxlLWRpemVtLWRpc2NvcmRhci1kZS1sdWxhLXNvYnJlLW1hZHVyby5naHRtbNIBkQFodHRwczovL2cxLmdsb2JvLmNvbS9nb29nbGUvYW1wL211bmRvL25vdGljaWEvMjAyMy8wNS8zMC9lbS1icmFzaWxpYS1wcmVzaWRlbnRlcy1kby11cnVndWFpLWUtZG8tY2hpbGUtZGl6ZW0tZGlzY29yZGFyLWRlLWx1bGEtc29icmUtbWFkdXJvLmdodG1s?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T19:13:14Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "G1",
+                    "title": "Sidney Magal tem pequeno sangramento no cérebro após crise de hipertensão, diz boletim - G1",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL2cxLmdsb2JvLmNvbS9zcC9zYW8tcGF1bG8vbm90aWNpYS8yMDIzLzA1LzMwL3NpZG5leS1tYWdhbC10ZW0tcGVxdWVuby1zYW5ncmFtZW50by1uby1jZXJlYnJvLWFwb3MtY3Jpc2UtZGUtaGlwZXJ0ZW5zYW8tZGl6LWJvbGV0aW0uZ2h0bWzSAZsBaHR0cHM6Ly9nMS5nbG9iby5jb20vZ29vZ2xlL2FtcC9zcC9zYW8tcGF1bG8vbm90aWNpYS8yMDIzLzA1LzMwL3NpZG5leS1tYWdhbC10ZW0tcGVxdWVuby1zYW5ncmFtZW50by1uby1jZXJlYnJvLWFwb3MtY3Jpc2UtZGUtaGlwZXJ0ZW5zYW8tZGl6LWJvbGV0aW0uZ2h0bWw?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T19:10:30Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "R7",
+                    "title": "Ex-Hermes e Renato sofre AVC e está internado na UTI; família cria vaquinha para custear tratamento - R7",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMilgFodHRwczovL2VudHJldGVuaW1lbnRvLnI3LmNvbS9mYW1vc29zLWUtdHYvZXgtaGVybWVzLWUtcmVuYXRvLXNvZnJlLWF2Yy1lLWVzdGEtaW50ZXJuYWRvLW5hLXV0aS1mYW1pbGlhLWNyaWEtdmFxdWluaGEtcGFyYS1jdXN0ZWFyLXRyYXRhbWVudG8tMzAwNTIwMjPSAZkBaHR0cDovL2VudHJldGVuaW1lbnRvLnI3LmNvbS9mYW1vc29zLWUtdHYvZXgtaGVybWVzLWUtcmVuYXRvLXNvZnJlLWF2Yy1lLWVzdGEtaW50ZXJuYWRvLW5hLXV0aS1mYW1pbGlhLWNyaWEtdmFxdWluaGEtcGFyYS1jdXN0ZWFyLXRyYXRhbWVudG8tMzAwNTIwMjM_YW1w?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T19:10:00Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "Estadão",
+                    "title": "Deltan Dallagnol é intimado a depor na Polícia Federal nesta sexta-feira - Estadão",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmVzdGFkYW8uY29tLmJyL3BvbGl0aWNhL2RhbGxhZ25vbC1pbnRpbWFkby1kZXBvci1wb2xpY2lhLWZlZGVyYWwtbnBycC_SAVZodHRwczovL3d3dy5lc3RhZGFvLmNvbS5ici9hbXAvcG9saXRpY2EvZGFsbGFnbm9sLWludGltYWRvLWRlcG9yLXBvbGljaWEtZmVkZXJhbC1ucHJwLw?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T18:57:09Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "R7",
+                    "title": "Ceni não queria. Dorival teve de aceitar. Alexandre Pato é jogador 'do presidente'. A preocupação no Morumbi é contratar Marinho - R7",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMisAFodHRwczovL2VzcG9ydGVzLnI3LmNvbS9wcmlzbWEvY29zbWUtcmltb2xpL2NlbmktbmFvLXF1ZXJpYS1kb3JpdmFsLXRldmUtZGUtYWNlaXRhci1hbGV4YW5kcmUtcGF0by1lLWpvZ2Fkb3ItZG8tcHJlc2lkZW50ZS1hLXByZW9jdXBhY2FvLW5vLW1vcnVtYmktZS1jb250cmF0YXItbWFyaW5oby0zMDA1MjAyM9IBAA?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T18:31:00Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "UOL Confere",
+                    "title": "O que motivou briga generalizada na 25 de Março - UOL Confere",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbm90aWNpYXMudW9sLmNvbS5ici9jb3RpZGlhbm8vdWx0aW1hcy1ub3RpY2lhcy8yMDIzLzA1LzMwL28tcXVlLW1vdGl2b3UtYnJpZ2EtZ2VuZXJhbGl6YWRhLW5hLTI1LWRlLW1hcmNvLmh0bdIBeWh0dHBzOi8vbm90aWNpYXMudW9sLmNvbS5ici9jb3RpZGlhbm8vdWx0aW1hcy1ub3RpY2lhcy8yMDIzLzA1LzMwL28tcXVlLW1vdGl2b3UtYnJpZ2EtZ2VuZXJhbGl6YWRhLW5hLTI1LWRlLW1hcmNvLmFtcC5odG0?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T17:53:55Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "MeuPlayStation",
+                    "title": "Diablo IV recebe as primeiras notas no Metacritic - MeuPlayStation",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbWV1cHMuY29tLmJyL25vdGljaWFzL2RpYWJsby1pdi1yZWNlYmUtbm90YXMtbm8tbWV0YWNyaXRpYy_SAQA?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T17:22:27Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "UOL Confere",
+                    "title": "Cidade de SP prorroga por tempo indeterminado vacinação contra a gripe - UOL Confere",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vbm90aWNpYXMudW9sLmNvbS5ici9zYXVkZS91bHRpbWFzLW5vdGljaWFzL3JlZGFjYW8vMjAyMy8wNS8zMC9jaWRhZGUtc2FvLXBhdWxvLWNhbXBhbmhhLXZhY2luYS1ncmlwZS5odG3SAXRodHRwczovL25vdGljaWFzLnVvbC5jb20uYnIvc2F1ZGUvdWx0aW1hcy1ub3RpY2lhcy9yZWRhY2FvLzIwMjMvMDUvMzAvY2lkYWRlLXNhby1wYXVsby1jYW1wYW5oYS12YWNpbmEtZ3JpcGUuYW1wLmh0bQ?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T17:20:28Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "InfoMoney",
+                    "title": "Dólar chega a subir mais de 1% com leituras sobre política monetária no Brasil e nos EUA e expectativa sobre teto da dívida - InfoMoney",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5pbmZvbW9uZXkuY29tLmJyL21lcmNhZG9zL2RvbGFyLWhvamUtc29iZS1tYWlzLTEtcG9yY2VudG8tci01MDYtcG9saXRpY2EtbW9uZXRhcmlhLWJyYXNpbC1ldWEtZXhwZWN0YXRpdmEtYXByb3ZhY2FvLWFjb3Jkby10ZXRvL9IBkAFodHRwczovL3d3dy5pbmZvbW9uZXkuY29tLmJyL21lcmNhZG9zL2RvbGFyLWhvamUtc29iZS1tYWlzLTEtcG9yY2VudG8tci01MDYtcG9saXRpY2EtbW9uZXRhcmlhLWJyYXNpbC1ldWEtZXhwZWN0YXRpdmEtYXByb3ZhY2FvLWFjb3Jkby10ZXRvL2FtcC8?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T16:34:48Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "VivaBem",
+                    "title": "Paralisia: pólio chega à fronteira e acha milhares de crianças sem vacina - VivaBem",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy51b2wuY29tLmJyL3ZpdmFiZW0vbm90aWNpYXMvZGV1dHNjaGUtd2VsbGUvMjAyMy8wNS8zMC9wYXJhbGlzaWEtaW5mYW50aWwtcG9saW8tYmF0ZS1hLXBvcnRhLWRvLWJyYXNpbC1lLWFjaGEtY3JpYW5jYXMtc2VtLXZhY2luYS5odG3SAZQBaHR0cHM6Ly93d3cudW9sLmNvbS5ici92aXZhYmVtL25vdGljaWFzL2RldXRzY2hlLXdlbGxlLzIwMjMvMDUvMzAvcGFyYWxpc2lhLWluZmFudGlsLXBvbGlvLWJhdGUtYS1wb3J0YS1kby1icmFzaWwtZS1hY2hhLWNyaWFuY2FzLXNlbS12YWNpbmEuYW1wLmh0bQ?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T16:29:58Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "ESPN.com.br",
+                    "title": "Na mira do Corinthians, Matias Rojas conversa com times da Europa, diz pai - ESPN - ESPN.com.br",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5lc3BuLmNvbS5ici9mdXRlYm9sL2NvcmludGhpYW5zL2FydGlnby9fL2lkLzEyMTI3ODMxL25vLXJhZGFyLWRvLWNvcmludGhpYW5zLW1hdGlhcy1yb2phcy1hY2VsZXJhLXBhcmEtZGVjaWRpci1mdXR1cm8tZS1jb252ZXJzYS1jb20tdGltZXMtZGEtZXVyb3BhLWRpei1wYWnSAbUBaHR0cHM6Ly93d3cuZXNwbi5jb20uYnIvZnV0ZWJvbC9jb3JpbnRoaWFucy9hcnRpZ28vXy9pZC8xMjEyNzgzMS9uby1yYWRhci1kby1jb3JpbnRoaWFucy1tYXRpYXMtcm9qYXMtYWNlbGVyYS1wYXJhLWRlY2lkaXItZnV0dXJvLWUtY29udmVyc2EtY29tLXRpbWVzLWRhLWV1cm9wYS1kaXotcGFpP3BsYXRmb3JtPWFtcA?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T15:16:00Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "Notícias da TV",
+                    "title": "Vai na Fé: Última vítima de estupro de Theo denuncia crime à polícia; saiba quem - Notícias da TV",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL25vdGljaWFzZGF0di51b2wuY29tLmJyL25vdGljaWEvbm92ZWxhcy92YWktbmEtZmUtdWx0aW1hLXZpdGltYS1kZS1lc3R1cHJvLWRlLXRoZW8tZGVudW5jaWEtY3JpbWUtcG9saWNpYS1zYWliYS1xdWVtLTEwMzI3NdIBjgFodHRwczovL25vdGljaWFzZGF0di51b2wuY29tLmJyL21vYmlsZS9ub3RpY2lhL25vdmVsYXMvdmFpLW5hLWZlLXVsdGltYS12aXRpbWEtZGUtZXN0dXByby1kZS10aGVvLWRlbnVuY2lhLWNyaW1lLXBvbGljaWEtc2FpYmEtcXVlbS0xMDMyNzUuYW1w?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T15:00:00Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "Brasil 247",
+                    "title": "PGR pede que Moro vire réu por calúnia contra Gilmar Mendes, do STF - Brasil 247",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmJyYXNpbDI0Ny5jb20vYnJhc2lsL3Bnci1wZWRlLXF1ZS1tb3JvLXZpcmUtcmV1LXBvci1jYWx1bmlhLWNvbnRyYS1naWxtYXItbWVuZGVzLWRvLXN0ZtIBZ2h0dHBzOi8vd3d3LmJyYXNpbDI0Ny5jb20vYnJhc2lsL3Bnci1wZWRlLXF1ZS1tb3JvLXZpcmUtcmV1LXBvci1jYWx1bmlhLWNvbnRyYS1naWxtYXItbWVuZGVzLWRvLXN0Zj9hbXA?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T14:27:00Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "Terra",
+                    "title": "Traição! Graça transa com outro homem para 'engravidar de Daniel' na novela 'Terra e Paixão'. Saiba quem! - Terra",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMitQFodHRwczovL3d3dy50ZXJyYS5jb20uYnIvZGl2ZXJzYW8vdHYvdHJhaWNhby1ncmFjYS10cmFuc2EtY29tLW91dHJvLWhvbWVtLXBhcmEtZW5ncmF2aWRhci1kZS1kYW5pZWwtbmEtbm92ZWxhLXRlcnJhLWUtcGFpeGFvLXNhaWJhLXF1ZW0sN2YyYmEwOWExMTUzZmY1MGZhMGEyMjYyOTA3ZmI4Y2Y2dTF5OTZiOS5odG1s0gG5AWh0dHBzOi8vd3d3LnRlcnJhLmNvbS5ici9hbXAvZGl2ZXJzYW8vdHYvdHJhaWNhby1ncmFjYS10cmFuc2EtY29tLW91dHJvLWhvbWVtLXBhcmEtZW5ncmF2aWRhci1kZS1kYW5pZWwtbmEtbm92ZWxhLXRlcnJhLWUtcGFpeGFvLXNhaWJhLXF1ZW0sN2YyYmEwOWExMTUzZmY1MGZhMGEyMjYyOTA3ZmI4Y2Y2dTF5OTZiOS5odG1s?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T14:24:00Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "google-news",
+                        "name": "Google News"
+                    },
+                    "author": "Jovem Pan",
+                    "title": "Rússia sofre maior ataque desde começo da guerra e culpa Kiev pelo bombardeio - Jovem Pan",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vam92ZW1wYW4uY29tLmJyL25vdGljaWFzL211bmRvL3J1c3NpYS1zb2ZyZS1tYWlvci1hdGFxdWUtZGVzZGUtY29tZWNvLWRhLWd1ZXJyYS1lLWN1bHBhLWtpZXYtcGVsby1ib21iYXJkZWlvLmh0bWzSAX1odHRwczovL2pvdmVtcGFuLmNvbS5ici9ub3RpY2lhcy9tdW5kby9ydXNzaWEtc29mcmUtbWFpb3ItYXRhcXVlLWRlc2RlLWNvbWVjby1kYS1ndWVycmEtZS1jdWxwYS1raWV2LXBlbG8tYm9tYmFyZGVpby5odG1sP2FtcA?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-05-30T14:14:26Z",
+                    "content": null
+                }
+            ],
+        "us":[
+            {
+                "source": {
+                    "id": null,
+                    "name": "New York Post"
+                },
+                "author": "Lisa Fickenscher",
+                "title": "Bud Light sales plunge 25.7% as Modelo closes gap to become top selling beer - New York Post ",
+                "description": "The plunge follows a 24.6% decline from the previous week and the sixth straight week sales have been hit since Dylan Mulvaney promoted Bud Light on April 1.",
+                "url": "https://nypost.com/2023/05/30/bud-light-sales-plunge-25-7-modelo-closes-beer-gap/",
+                "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/Bud-Modelo.jpg?quality=75&strip=all&w=1024",
+                "publishedAt": "2023-05-30T22:04:00Z",
+                "content": "Bud Light sales suffered their worst week ever, falling 25.7% — endangering its status as the world’s No. 1 beer brand, according to the latest data provided to The Post on Tuesday.\r\nThe plunge follo… [+3274 chars]"
+            },
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": "Catherine Thorbecke",
+                "title": "Elizabeth Holmes reports to prison - CNN",
+                "description": "Elizabeth Holmes reported to prison on Tuesday, capping off a stunning downfall for the disgraced founder of failed blood testing startup Theranos.",
+                "url": "https://www.cnn.com/2023/05/30/tech/elizabeth-holmes-prison/index.html",
+                "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230530140749-05-elizabeth-holmes-reporting-prison-bryan-tx-0530.jpg?c=16x9&q=w_800,c_fill",
+                "publishedAt": "2023-05-30T21:29:00Z",
+                "content": "Elizabeth Holmes reported toprison on Tuesday, capping off a stunning downfall for the disgraced founder of failed blood testing startup Theranos.\r\nHolmes was sentenced to more than 11 years in priso… [+3375 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNBC"
+                },
+                "author": "Jesse Pound",
+                "title": "Stocks making the biggest moves after hours: Ambarella, Box, HP and more - CNBC",
+                "description": "Earnings reports for tech companies were driving stock prices Tuesday evening.",
+                "url": "https://www.cnbc.com/2023/05/30/stocks-making-biggest-after-hour-moves-ambarella-box-hp-and-more.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/106267133-1574803799871gettyimages-103318586.jpeg?v=1685482431&w=1920&h=1080",
+                "publishedAt": "2023-05-30T21:10:25Z",
+                "content": "Here are the stocks making notable moves after the closing bell Tuesday.\r\nAmbarella The chip stock fell 12% in extended trading after Ambarella gave second-quarter revenue guidance of $60 million to … [+1142 chars]"
+            },
+            {
+                "source": {
+                    "id": "business-insider",
+                    "name": "Business Insider"
+                },
+                "author": "Carla Mozée",
+                "title": "Nvidia stock price: $1 trillion market cap as AI boom fuels chipmaker rally - Markets Insider",
+                "description": "Nvidia joins Amazon, Apple, Alphabet, Microsoft, and Saudi Aramco in the elite 13-figure market cap club.",
+                "url": "https://markets.businessinsider.com/news/stocks/nvidia-stock-price-ai-artificial-intelligence-trillion-valuation-chipmaker-gpus-2023-5",
+                "urlToImage": "https://i.insider.com/6475e7bc085acb0018fedb3e?width=1200&format=jpeg",
+                "publishedAt": "2023-05-30T21:02:00Z",
+                "content": "Nvidia on Tuesday stepped into an elite club of companies valued at $1 trillion or more, then ended the trading session just below that massive threshold.  \r\nShares saw a new leg higher after the com… [+1554 chars]"
+            },
+            {
+                "source": {
+                    "id": "newsweek",
+                    "name": "Newsweek"
+                },
+                "author": "Matthew Impelli",
+                "title": "Boycott Hits Kohl's Just as CEO Gets Good News - Newsweek",
+                "description": "As of Tuesday, May 30, the stock price of Kohl's was down to $18.95, which represents a decline of 11.78 percent over the past month.",
+                "url": "https://www.newsweek.com/boycott-hits-kohls-ceo-gets-good-news-1803457",
+                "urlToImage": "https://d.newsweek.com/en/full/2240767/boycott-hits-kohls.jpg",
+                "publishedAt": "2023-05-30T20:57:11Z",
+                "content": "Conservative voices calling for a boycott of Kohl's come just as the company's CEO received good news in terms of stock price.\r\nKohl's recently faced a wave of criticism and calls to boycott the stor… [+2780 chars]"
+            },
+            {
+                "source": {
+                    "id": "reuters",
+                    "name": "Reuters"
+                },
+                "author": null,
+                "title": "Shares close mixed, Nvidia's 3% rise offsets debt ceiling jitters - Reuters",
+                "description": "Stocks on Wall Street closed mixed on Tuesday, pressured by worries about U.S. lawmakers opposed to a deal to raise the $31.4 trillion debt ceiling, but supported by another surge in Nvidia shares that briefly lifted the chipmaker into the rare club of compan…",
+                "url": "https://www.reuters.com/markets/us/futures-rise-tentative-debt-ceiling-deal-2023-05-30/",
+                "urlToImage": "https://www.reuters.com/resizer/YbwktGBqS2Y2MkvcDJvyBf1SjWs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NVPVLMBLRNMURMG5624M7C7Q4Q.jpg",
+                "publishedAt": "2023-05-30T20:06:00Z",
+                "content": "May 30 (Reuters) - Stocks on Wall Street closed mixed on Tuesday, pressured by worries about U.S. lawmakers opposed to a deal to raise the $31.4 trillion debt ceiling, but supported by another surge … [+4287 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Investor's Business Daily"
+                },
+                "author": "Investor's Business Daily",
+                "title": "Elon Musk Visits China As Tesla Races Toward Buy Point - Investor's Business Daily",
+                "description": null,
+                "url": "https://www.investors.com/news/tesla-stock-racing-toward-buy-point-as-elon-musk-visits-china/",
+                "urlToImage": null,
+                "publishedAt": "2023-05-30T20:01:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Tipranks.com"
+                },
+                "author": "TipRanks",
+                "title": "Cathie Wood Misses Nvidia Rally, Says Tesla is the AI Winner - TipRanks",
+                "description": null,
+                "url": "https://www.tipranks.com/news/cathie-wood-misses-nvidia-rally-says-tesla-is-the-ai-winner",
+                "urlToImage": null,
+                "publishedAt": "2023-05-30T19:52:59Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "YouTube"
+                },
+                "author": null,
+                "title": "SoFi positioned to profit from student loan refinancing, says Mizuho's Dan Dolev - CNBC Television",
+                "description": null,
+                "url": "https://www.youtube.com/watch?v=YTvR3BAhiWA",
+                "urlToImage": null,
+                "publishedAt": "2023-05-30T19:21:31Z",
+                "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNBC"
+                },
+                "author": "Hugh Son",
+                "title": "Goldman Sachs is cutting jobs again amid Wall Street deals slump - CNBC",
+                "description": "Goldman Sachs, more tied to the ups and downs of Wall Street than its rivals, is cutting jobs again.",
+                "url": "https://www.cnbc.com/2023/05/30/goldman-sachs-is-cutting-jobs-again-amid-wall-street-deals-slump.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/106958922-1634047781247-gettyimages-1140232154-MILKEN_CONFERENCE.jpeg?v=1685475124&w=1920&h=1080",
+                "publishedAt": "2023-05-30T19:18:36Z",
+                "content": "Goldman Sachs is preparing for its third round of layoffs since September as Wall Street firms adjust to a slump in deals activity.\r\nThe company is expected to trim fewer than 250 jobs in the coming … [+1024 chars]"
+            },
+            {
+                "source": {
+                    "id": "reuters",
+                    "name": "Reuters"
+                },
+                "author": null,
+                "title": "Oil slides 4% on worries about US debt ceiling, OPEC+ talks - Reuters.com",
+                "description": "Oil prices fell more than 4% on Tuesday on concerns about whether the U.S. Congress will pass the U.S. debt ceiling pact and as mixed messages from major producers clouded the supply outlook ahead of the OPEC+ meeting this weekend.",
+                "url": "https://www.reuters.com/business/energy/oil-rises-us-debt-deal-rate-hikes-opec-talks-curb-enthusiasm-2023-05-30/",
+                "urlToImage": "https://www.reuters.com/resizer/2J_VHOCyXbmW-54CbBreqHlcNcc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TUK6CK5VQJOQFHOBP5WX7P3IRA.jpg",
+                "publishedAt": "2023-05-30T19:14:00Z",
+                "content": "NEW YORK, May 30 (Reuters) - Oil prices fell more than 4% on Tuesday on concerns about whether the U.S. Congress will pass the U.S. debt ceiling pact and as mixed messages from major producers cloude… [+2569 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Cointelegraph"
+                },
+                "author": "Derek Andersen",
+                "title": "SEC settles case against Wahi brothers for Coinbase insider trading - Cointelegraph",
+                "description": "The SEC lawsuit alleged that the former Coinbase product manager and his brother used non-public knowledge to trade crypto securities.",
+                "url": "https://cointelegraph.com/news/sec-settles-case-against-wahi-brothers-for-coinbase-insider-trading",
+                "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-05/ff18ace8-41e2-4bcc-83f4-99b9471054d9.jpg",
+                "publishedAt": "2023-05-30T19:10:29Z",
+                "content": "Former Coinbase product manager Ishan Wahi and his brother Nikhil Wahi have agreed to settle charges of insider trading brought against them by the United States Securities and Exchange Commission (S… [+2497 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Gizmodo.com"
+                },
+                "author": "Angely Mercado",
+                "title": "'Catastrophe Exposure' Pushes State Farm to Stop Selling Insurance in California - Gizmodo",
+                "description": "Inflation, construction costs, and rising climate change-related risks prompted the company to leave the state's home and business insurance market.",
+                "url": "https://gizmodo.com/climate-change-state-farm-insurance-halts-california-1850487503",
+                "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/709c752f28960b247fcd9ff7c29368f0.jpg",
+                "publishedAt": "2023-05-30T19:00:00Z",
+                "content": "State Farm has stopped accepting new applications for home and business insurance in California this month due to wildfire risk and rising costs, the company announced on Friday.\r\nIn an official stat… [+2347 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-washington-post",
+                    "name": "The Washington Post"
+                },
+                "author": "Ian Duncan",
+                "title": "TSA records busiest day of pandemic amid smooth holiday for air travel - The Washington Post",
+                "description": "Air travel reached post-pandemic peaks, according to federal data, marking a busy but smooth the Memorial Day weekend and start to the summer air travel season.",
+                "url": "https://www.washingtonpost.com/transportation/2023/05/30/memorial-day-holiday-travel/",
+                "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3GNZZ36TJMHHGOLLTDTWZVLA2U_size-normalized.jpg&w=1440",
+                "publishedAt": "2023-05-30T18:59:00Z",
+                "content": "Comment on this story\r\nComment\r\nThe number of travelers flying to their destinations in recent days set a pandemic-era record, according to federal data, marking a busy but smooth Memorial Day weeken… [+4450 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Fox Business"
+                },
+                "author": "Julia Musto",
+                "title": "Nvidia CEO says companies, people who take advantage of AI will benefit - Fox Business",
+                "description": "Nvidia CEO Jensen Huang delivered the commencement address at National Taiwan University and discussed the importance of learning to use artificial intelligence.",
+                "url": "https://www.foxbusiness.com/technology/nvidia-ceo-grads-learn-ai-not-left-behind",
+                "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/Smile.jpg?ve=1&tl=1",
+                "publishedAt": "2023-05-30T18:56:19Z",
+                "content": "Nvidia CEO Jensen Huang told graduates at the National Taiwan University commencement ceremony that they should learn about artificial intelligence in order to not be left behind.\r\n\"Agile companies w… [+2997 chars]"
+            },
+            {
+                "source": {
+                    "id": "ars-technica",
+                    "name": "Ars Technica"
+                },
+                "author": "Jon Brodkin",
+                "title": "Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented” - Ars Technica",
+                "description": "Judge weighs punishment for lawyer who didn't bother to verify ChatGPT output.",
+                "url": "https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/",
+                "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-robot-hand-lawyer-760x380.jpg",
+                "publishedAt": "2023-05-30T18:52:44Z",
+                "content": "131 with \r\nA lawyer is in trouble after admitting he used ChatGPT to help write court filings that cited six nonexistent cases invented by the artificial intelligence tool.\r\nLawyer Steven Schwartz of… [+2794 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "WLKY Louisville"
+                },
+                "author": "WLKY Digital Team",
+                "title": "Old National Bank relocating its downtown Louisville branch in wake of shooting - WLKY Louisville",
+                "description": "Old National Bank will be moving it's downtown Louisville branch to a new spot in the wake of the mass shooting that happened last month.",
+                "url": "https://www.wlky.com/article/old-national-bank-relocating-louisville-branch-shooting/44041119",
+                "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/old-national-bank-6476416eccd3e.jpg?crop=1.00xw:0.846xh;0,0.154xh&resize=1200:*",
+                "publishedAt": "2023-05-30T18:34:00Z",
+                "content": "LOUISVILLE, Ky. —Old National Bank will be moving it's downtown Louisville branch to a new spot in the wake of the mass shooting that happened last month.\r\nFive people were killed and several other i… [+1114 chars]"
+            },
+            {
+                "source": {
+                    "id": "business-insider",
+                    "name": "Business Insider"
+                },
+                "author": "Carla Mozée",
+                "title": "House prices are declining in these 7 states but hitting highs elsewhere - Markets Insider",
+                "description": "From Utah to Colorado, some states are seeing the first annual house price declines in years, said one government agency.",
+                "url": "https://markets.businessinsider.com/news/stocks/house-prices-housing-market-decline-7-western-states-fhfa-homes-2023-5",
+                "urlToImage": "https://i.insider.com/64761b77085acb0018fee197?width=1200&format=jpeg",
+                "publishedAt": "2023-05-30T18:18:00Z",
+                "content": "America's housing market broadly notched price increases as the key spring-selling season began, but one area of the country that was booming saw the air coming out of prices on a yearly basis, accor… [+2681 chars]"
+            },
+            {
+                "source": {
+                    "id": "reuters",
+                    "name": "Reuters"
+                },
+                "author": null,
+                "title": "Noncompete agreements violate US labor law, official says - Reuters.com",
+                "description": "A U.S. labor board official on Tuesday said requiring workers to sign agreements not to join competing companies is usually illegal, the latest bid by government regulators to rein in the practice.",
+                "url": "https://www.reuters.com/markets/us/noncompete-agreements-violate-us-labor-law-official-says-2023-05-30/",
+                "urlToImage": "https://www.reuters.com/resizer/xm7LKpdc8HUCER68uxhNol_sRLQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3K7JE63DCFJHDHQWGOICDYDI6A.jpg",
+                "publishedAt": "2023-05-30T18:06:00Z",
+                "content": "May 30 (Reuters) - A U.S. labor board official on Tuesday said requiring workers to sign agreements not to join competing companies is usually illegal, the latest bid by government regulators to rein… [+2079 chars]"
+            },
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": "Francesca Street",
+                "title": "World’s best airline for 2023 named by AirlineRatings.com - CNN",
+                "description": "AirlineRatings.com has released its annual round-up of the best airlines. Find out which airline topped 2023’s ranking.",
+                "url": "https://www.cnn.com/travel/article/airline-ratings-2023-airline-of-the-year/index.html",
+                "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230529113714-01-airline-of-the-year-2023.jpg?c=16x9&q=w_800,c_fill",
+                "publishedAt": "2023-05-30T18:05:00Z",
+                "content": "Its economy lie-flat seating concept is making waves, and now Air New Zealand is officially the airline of the year, at least according to Australia-based aviation safety and product rating agency Ai… [+2786 chars]"
+            }
+        ]
+
+    }
+]

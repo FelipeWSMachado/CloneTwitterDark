@@ -3,7 +3,7 @@ import React from 'react';
 import List from '../List';
 import FollowSuggestion from '../FollowSuggestion';
 import News from '../News';
-
+import fakeResponse from '../../api/fakeResponse.json';
 import {
   Container,
   SearchWrapper,
@@ -17,19 +17,28 @@ import { getLikeOptions } from '../../api/routes';
 const SideBar: React.FC = () => {
   const [updatedNews, setUpdatedNews] = React.useState<JSX.Element[]>([]);
 
+  const setResponses = (resp: any) => {
+    const newsElements = resp.map((article: any) => (
+      <News
+        author={article.author}
+        title={article.title}
+        key={article.id}
+        url={article.url}
+      />
+    ));
+    setUpdatedNews(newsElements);
+  };
+
   React.useEffect(() => {
-    getLikeOptions().then((response) => {
-      console.log(response);
-      const newsElements = response.data.articles.map((article: any) => (
-        <News
-          author={article.author}
-          title={article.title}
-          key={article.id}
-          url={article.url}
-        />
-      ));
-      setUpdatedNews(newsElements);
-    });
+    getLikeOptions()
+      .then((response) => {
+        setResponses(response.data.articles);
+      })
+      .catch((error) => {
+        if (error.status === 426) {
+          setResponses(fakeResponse[0].br);
+        }
+      });
   }, []);
 
   return (

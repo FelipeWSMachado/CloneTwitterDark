@@ -1,5 +1,4 @@
 import axios from 'axios';
-const key = '52ccc5d13b824a61bc758bd59bf9228d';
 
 export default async function getArticle() {
   return await axios.get(
