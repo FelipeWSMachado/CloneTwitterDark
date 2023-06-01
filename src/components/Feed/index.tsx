@@ -14,10 +14,8 @@ const Feed: React.FC = () => {
     list()
       .then((response) => setNews(response.data.articles))
       .catch((error) => {
-        if (error.code === 426) {
-          //@ts-ignore
-          setNews(fakeResponse[0].us);
-        }
+        //@ts-ignore
+        setNews(fakeResponse[0].us);
       });
   }, []);
 

@@ -34,10 +34,8 @@ const SideBar: React.FC = () => {
       .then((response) => {
         setResponses(response.data.articles);
       })
-      .catch((error) => {
-        if (error.status === 426) {
-          setResponses(fakeResponse[0].br);
-        }
+      .catch(() => {
+        setResponses(fakeResponse[0].br);
       });
   }, []);
 

@@ -3,7 +3,7 @@ UI Clone - Twitter Responsivo
 </h1>
 
 <p align="center">Clone (partial) do twitter modo dark.</p>
-<p align="center">Versão para vizualizar <a href="https://romantic-colden-ec0e9d.netlify.app/">aqui</a>.</p>
+<p align="center">Versão para vizualizar <a href="https://felipewsmachado.github.io/CloneTwitterDark/">aqui</a>.</p>
 
 <p align="center">
     <img src="https://media.giphy.com/media/W5O1zX15M4Ay5gOKOI/giphy.gif" alt="Live Demo">
@@ -20,5 +20,3 @@ UI Clone - Twitter Responsivo
 
 1. Run `npm install` or `yarn install`.<br />
 2. Run `yarn start` and access `http://localhost:3000`.<br />
-
-
