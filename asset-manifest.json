@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/CloneTwitterDark/static/js/main.86602fd0.js",
+    "main.js": "/CloneTwitterDark/static/js/main.b3a8091f.js",
     "static/media/profile-pic.png": "/CloneTwitterDark/static/media/profile-pic.348994362151c559b273.png",
     "index.html": "/CloneTwitterDark/index.html",
-    "main.86602fd0.js.map": "/CloneTwitterDark/static/js/main.86602fd0.js.map"
+    "main.b3a8091f.js.map": "/CloneTwitterDark/static/js/main.b3a8091f.js.map"
   },
   "entrypoints": [
-    "static/js/main.86602fd0.js"
+    "static/js/main.b3a8091f.js"
   ]
 }
