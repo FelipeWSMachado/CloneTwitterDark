@@ -2,7 +2,7 @@ import React from 'react';
 
 import Button from '../Button';
 import profilePicture from '../assets/profile-pic.png';
-
+import { faXTwitter } from '@fortawesome/free-brands-svg-icons'
 import {
   Container,
   Topside,
@@ -18,13 +18,16 @@ import {
   Avatar,
   ProfileData,
   ExitIcon,
+  FileIcon,
+  BookmarkIcon,
+  MoreCircleIcon
 } from './styles';
 
 const MenuBar: React.FC = () => {
   return (
     <Container>
       <Topside>
-        <Logo />
+        <Logo icon={faXTwitter}/>
 
         <MenuButton>
           <HomeIcon />
@@ -47,6 +50,16 @@ const MenuBar: React.FC = () => {
         </MenuButton>
 
         <MenuButton>
+          <FileIcon />
+          <span>Listas</span>
+        </MenuButton>
+
+        <MenuButton>
+          <BookmarkIcon />
+          <span>Bookmarks</span>
+        </MenuButton>
+
+        <MenuButton>
           <FavoriteIcon />
           <span>Favoritados</span>
         </MenuButton>
@@ -54,6 +67,11 @@ const MenuBar: React.FC = () => {
         <MenuButton className="active">
           <ProfileIcon />
           <span>Perfil</span>
+        </MenuButton>
+
+        <MenuButton>
+          <MoreCircleIcon />
+          <span>Mais</span>
         </MenuButton>
 
         <Button>

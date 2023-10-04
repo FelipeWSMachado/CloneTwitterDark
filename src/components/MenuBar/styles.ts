@@ -1,4 +1,5 @@
 import styled, { css } from 'styled-components';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 import {
   Home,
@@ -8,7 +9,9 @@ import {
   FavoriteBorder,
   Person,
   ExitToApp,
-  LogoTwitter,
+  FileList,
+Bookmark,
+MoreCircle
 } from '../../styles/Icons';
 
 export const Container = styled.div`
@@ -40,8 +43,8 @@ export const Topside = styled.div`
   }
 `;
 
-export const Logo = styled(LogoTwitter)`
-  width: 30px;
+export const Logo = styled(FontAwesomeIcon)`
+  width: 35px;
   height: 41px;
 
   > path {
@@ -108,10 +111,12 @@ export const MenuButton = styled.button`
 
   &:hover,
   &.active {
-    span,
+    span{
+      fill: var(--white);
+    },
     svg {
       color: var(--twitter);
-      fill: var(--twitter);
+      fill: var(--white);
     }
   }
 `;
@@ -136,12 +141,23 @@ export const BellIcon = styled(Notifications)`
 export const EmailIcon = styled(Email)`
   ${iconCSS}
 `;
+export const FileIcon = styled(FileList)`
+  ${iconCSS}
+`;
+export const BookmarkIcon = styled(Bookmark)`
+  ${iconCSS}
+`;
 export const FavoriteIcon = styled(FavoriteBorder)`
   ${iconCSS}
 `;
 export const ProfileIcon = styled(Person)`
   ${iconCSS}
 `;
+
+export const MoreCircleIcon = styled(MoreCircle)`
+  ${iconCSS}
+`;
+
 
 export const Botside = styled.div`
   margin-top: 20px;
